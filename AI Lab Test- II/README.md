@@ -52,4 +52,4 @@ The Emergency Evacuation Planner uses Prolog to represent a building as a connec
 
 The project demonstrates the application of Artificial Intelligence and Prolog in solving an emergency evacuation problem. Using graph representation, DFS, backtracking and constraint handling, the system identifies safe evacuation routes while avoiding blocked connections and unsafe locations.
 
-**Note:** This project is an educational simulation and is not intended for real emergency navigation.
+
